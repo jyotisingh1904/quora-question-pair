@@ -1,0 +1,7 @@
+distance
+streamlit
+pandas
+BeautifulSoup
+fuzzywuzzy
+pickle
+numpy
