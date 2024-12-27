@@ -20,3 +20,7 @@ sklearn for predictive modeling
 💡 Why NLP?
 Natural Language Processing is shaping the way we interact with technology—from chatbots to search engines. Working on this project gave me an opportunity to understand how language can be quantified, analyzed, and interpreted by machines.
 
+Dataset Link - https://www.kaggle.com/c/quora-question-pairs
+how to run:
+streamlit run app.py
+
